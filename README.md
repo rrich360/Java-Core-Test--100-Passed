@@ -9,3 +9,4 @@ ability to think of alternative solutions when executing a task to be completed.
 the score after compiling the evaluation test in the package :
 
 
+![Inkedjava-core-test_LI](https://user-images.githubusercontent.com/20470279/60303899-b447c780-9905-11e9-8ca5-e2bc18b942b5.jpg)
